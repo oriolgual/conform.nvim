@@ -1,5 +1,13 @@
 # Changelog
 
+## [8.2.1](https://github.com/stevearc/conform.nvim/compare/v8.2.0...v8.2.1) (2024-11-13)
+
+
+### Bug Fixes
+
+* **prettier:** respect "prettier" config field in "package.json" ([#573](https://github.com/stevearc/conform.nvim/issues/573)) ([1a7ff54](https://github.com/stevearc/conform.nvim/commit/1a7ff54dcfbe1af139b11829c6d58f5ffab87707))
+* **xmlformat:** rename to  xmlformatter ([#572](https://github.com/stevearc/conform.nvim/issues/572)) ([d23765f](https://github.com/stevearc/conform.nvim/commit/d23765f50637529078aca879351a219d6b1d8010))
+
 ## [8.2.0](https://github.com/stevearc/conform.nvim/compare/v8.1.0...v8.2.0) (2024-11-09)
 
 
